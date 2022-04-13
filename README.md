@@ -7,3 +7,5 @@
 **Assignment 4:** [So You Think Ants Can Dance](https://csci-4611-spring-2022.github.io/Builds/Assignment-4)
 
 **Assignment 5:** [Artistic Rendering](https://csci-4611-spring-2022.github.io/Builds/Assignment-5)
+
+**Assignment 6:** [Harold: A World Made of Drawings](https://csci-4611-spring-2022.github.io/Builds/Assignment-6)
